@@ -15,7 +15,7 @@ Based on the challenge description, it seems like we need to find out the locati
 
 First, lets take a look at the image!
 
-![challenge](/challenge.png)
+![challenge](challenge.png)
 
 Hmm.. it looks like there some fishing spot? Well lets find out!
 
