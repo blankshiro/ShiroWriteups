@@ -245,7 +245,7 @@ Nmap done: 1 IP address (1 host up) scanned in 66.65 seconds
 
 Oh? There seems to be an interesting Heartbleed Bug vulnerability for port `443`!
 
-As an efficient student, I Googled for an easy explanation of the heartbleed bug by [xkcd](https://xkcd.com/1354/).
+As a ~~lazy~~ efficient student, I Googled for an easy explanation of the heartbleed bug by [xkcd](https://xkcd.com/1354/).
 
 ![heartbleed_explanation](heartbleed_explanation.png)
 
